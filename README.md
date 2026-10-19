@@ -1,5 +1,5 @@
 #  About Me:
-CSE student and developer focused on AI, cybersecurity, and modern web development. I enjoy building practical, scalable projects and exploring emerging technologies.<br>
+Focused on AI, cybersecurity, and modern web development. I enjoy building practical, scalable projects and exploring emerging technologies.<br>
 
 # 💻 Tech Stack:
 
